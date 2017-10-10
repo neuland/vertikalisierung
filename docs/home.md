@@ -7,4 +7,3 @@
   - Messbarkeit
 - (Präsentation)
 - Vertikalen kurz
-https://github.com/neuland/vertikalisierung/edit/master/docs/index.html
