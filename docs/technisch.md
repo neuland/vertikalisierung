@@ -1,0 +1,4 @@
+- Technisch _(Jens)_
+  - SCS
+  - Integration der Vertikalen
+  - Micro-Frontends

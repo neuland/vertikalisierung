@@ -1,0 +1,8 @@
+- Kulturell
+  - Tiefe der Integration (Legacy)
+  - Strategie: unternehmenszentrisch vs. kundenfokussiert
+  - Struktur: formelle Struktur vs. Wertschöpfungsstruktur
+  - Führung: Vorgesetzter vs. Führungskraft
+  - Prozess: vorherbstimmt vs. iterativ
+  - Motivation: extrinsisch vs. intrinsisch
+  - Kultur: geschlossen vs. offen

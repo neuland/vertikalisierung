@@ -1,0 +1,5 @@
+- fachlich _(Volkmar)_
+  - DataScience
+  - UX/Design
+  - Datenschutz
+  - Querschnittsthemen (Payback, Drittanbieter, Kampagnen)

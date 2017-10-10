@@ -1,0 +1,5 @@
+- Querschnittsthemen
+  - [fachlich](querschnittfachlich) _(Volkmar)_
+  - [technisch](querschnitttechnisch) _(Jens)_
+  - Neue Frontends/Kanäle/UseCases
+  - Backoffice
